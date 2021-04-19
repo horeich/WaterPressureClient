@@ -1,0 +1,13 @@
+{
+    "name": "water-pressure-client",
+    "config": {
+       "num-of-samples": {
+           "help": "The number of samples taken to average over",
+           "value": 100
+       },
+       "reference-resistance": {
+           "help": "The resistance for 4-20mA measurements",
+           "value": 75
+       }
+    }
+}
